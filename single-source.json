@@ -16,8 +16,8 @@
         ],
         "attribution": "Global Map Global Elevation v2",
         "tileSize": 512,
-        "minzoom": 2,
-        "maxzoom": 8
+        "minzoom": 4,
+        "maxzoom": 4
       },
       "terrainSource": {
         "type": "raster-dem",
@@ -26,8 +26,8 @@
         ],
         "attribution": "Global Map Global Elevation v2",
         "tileSize": 512,
-        "minzoom": 2,
-        "maxzoom": 8
+        "minzoom": 4,
+        "maxzoom": 4
       }
     },
     "sprite": "https://ubukawa.github.io/vt-test/sprite/sprite",
